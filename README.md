@@ -1,6 +1,6 @@
 # 每日一题系列
 
-整理自己在`LeetCode`上做的**\*\*每日一题\*\***
+整理自己在`LeetCode`上做的每日一题，[鶸的 leecode 地址](https://leetcode-cn.com/u/xian-yu-ben-yu-k/)
 
 # 🔖 题目列表
 
