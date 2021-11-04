@@ -1,6 +1,6 @@
 # 每日一题系列
 
-整理自己在`LeetCode`上做的每日一题签到，[鶸的 leecode 地址](https://leetcode-cn.com/u/xian-yu-ben-yu-k/)
+整理自己在`LeetCode`上的每日一题的打卡签到，[鶸的 leecode 地址](https://leetcode-cn.com/u/xian-yu-ben-yu-k/)
 
 # 🔖 题目列表
 
@@ -11,3 +11,4 @@
 
 - [2021-11-3-42.接雨水](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-3-42/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 
+- [2021-11-4-367.有效完成平方数]()
