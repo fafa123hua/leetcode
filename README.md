@@ -11,4 +11,5 @@
 
 - [2021-11-3-42.接雨水](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-3-42/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 
-- [2021-11-4-367.有效完成平方数]()
+- [2021-11-4-367.有效完成平方数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-4-367/%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+
