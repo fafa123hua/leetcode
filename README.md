@@ -17,3 +17,4 @@
 
 - [2021-11-6-268.丢失的数字](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-6-268/%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
+- [2021-11-7-598.范围求和II]()
