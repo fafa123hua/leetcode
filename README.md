@@ -20,3 +20,6 @@
 - [2021-11-7-598.范围求和II](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-7-598/%E8%8C%83%E5%9B%B4%E6%B1%82%E5%92%8C.md)
 
 - [2021-11-8-299.猜数字游戏](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-8-299/%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md)
+
+- [2021-11-9-47.全排列 II]()
+- [2021-11-10-495.提莫攻击](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-10-495/%E6%8F%90%E8%8E%AB%E6%94%BB%E5%87%BB.md)
