@@ -21,7 +21,7 @@
 
 - [2021-11-8-299.猜数字游戏](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-8-299/%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md)
 
-- [2021-11-9-47.全排列 II]()
+- [2021-11-9-47.全排列 II](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-9-47/%E5%85%A8%E6%8E%92%E5%88%97%20II.md)
 - [2021-11-10-495.提莫攻击](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-10-495/%E6%8F%90%E8%8E%AB%E6%94%BB%E5%87%BB.md)
 
 - [2021-11-11-122.买卖股票的最佳时机 II](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-11-122/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)
