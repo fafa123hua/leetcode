@@ -27,3 +27,6 @@
 - [2021-11-11-122.买卖股票的最佳时机 II](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-11-122/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)
 
 - [2021-11-12-374.猜数字大小](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-12-374/%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md)
+
+- [2021-11-13-520.检测大写字母](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-13-520/%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D.md)
+
