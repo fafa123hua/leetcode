@@ -31,3 +31,6 @@
 - [2021-11-13-520.检测大写字母](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-13-520/%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D.md)
 
 - [2021-11-14-191.位1的个数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-14-191/%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+
+- [2021-11-15-319.灯泡开关](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-15-319/%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.md)
+
