@@ -43,3 +43,6 @@
 - [2021-11-19-397.整数替换](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-19-397/%E6%95%B4%E6%95%B0%E6%9B%BF%E6%8D%A2.md)
 
 - [2021-11-20-594.最长和谐子序列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-20-594/%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md)
+
+- [2021-11-21-559.N叉树的最大深度](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-21-559/N%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
+
