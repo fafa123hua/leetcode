@@ -54,3 +54,5 @@
 
 - [2021-11-25-1769.移动所有球到每个盒子所需的最小操作数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-25-1769/%E7%A7%BB%E5%8A%A8%E6%89%80%E6%9C%89%E7%90%83%E5%88%B0%E6%AF%8F%E4%B8%AA%E7%9B%92%E5%AD%90%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%95%B0.md)
 
+- [2021-11-26-700.二叉搜索树中的搜索](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-11-26-700/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2.md)
+
