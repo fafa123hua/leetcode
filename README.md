@@ -67,3 +67,5 @@
 ### 🚩2021 年 12 月
 
 - [2021-12-1-1446.连续字符](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-1-1446/%E8%BF%9E%E7%BB%AD%E5%AD%97%E7%AC%A6.md)
+
+- [2021-12-2-506.相对名次](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-1-1446/%E8%BF%9E%E7%BB%AD%E5%AD%97%E7%AC%A6.md)
