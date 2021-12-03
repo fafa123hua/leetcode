@@ -69,3 +69,6 @@
 - [2021-12-1-1446.连续字符](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-1-1446/%E8%BF%9E%E7%BB%AD%E5%AD%97%E7%AC%A6.md)
 
 - [2021-12-2-506.相对名次](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-1-1446/%E8%BF%9E%E7%BB%AD%E5%AD%97%E7%AC%A6.md)
+
+- [2021-12-3-1005.K次取反后最大化的数组和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-3-1005/K%E6%AC%A1%E5%8F%96%E5%8F%8D%E5%90%8E%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.md)
+
