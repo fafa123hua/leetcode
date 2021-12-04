@@ -72,3 +72,5 @@
 
 - [2021-12-3-1005.K次取反后最大化的数组和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-3-1005/K%E6%AC%A1%E5%8F%96%E5%8F%8D%E5%90%8E%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.md)
 
+- [2021-12-4-383.赎金信](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-4-383/%E8%B5%8E%E9%87%91%E4%BF%A1.md)
+
