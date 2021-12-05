@@ -74,3 +74,5 @@
 
 - [2021-12-4-383.赎金信](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-4-383/%E8%B5%8E%E9%87%91%E4%BF%A1.md)
 
+- [2021-12-5-372.超级次方](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-5-372/%E8%B6%85%E7%BA%A7%E6%AC%A1%E6%96%B9.md)
+
