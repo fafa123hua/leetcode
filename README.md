@@ -76,3 +76,5 @@
 
 - [2021-12-5-372.超级次方](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-5-372/%E8%B6%85%E7%BA%A7%E6%AC%A1%E6%96%B9.md)
 
+- [2021-12-6-1816.截断句子](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-6-1816/%E6%88%AA%E6%96%AD%E5%8F%A5%E5%AD%90.md)
+
