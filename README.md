@@ -80,3 +80,5 @@
 
 - [2021-12-7-876.链表的中间节点](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-7-876/%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)
 
+- [2021-12-8-2095.删除链表的中间节点](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-8-2095/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)
+
