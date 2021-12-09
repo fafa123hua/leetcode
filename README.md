@@ -82,3 +82,5 @@
 
 - [2021-12-8-2095.删除链表的中间节点](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-8-2095/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)
 
+- [2021-12-9-794.有效井字游戏](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-9-794/%E6%9C%89%E6%95%88%E7%9A%84%E4%BA%95%E5%AD%97%E6%B8%B8%E6%88%8F.md)
+
