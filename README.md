@@ -86,3 +86,5 @@
 
 - [2021-12-10-748.最短补全词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-10-748/%E6%9C%80%E7%9F%AD%E8%A1%A5%E5%85%A8%E8%AF%8D.md)
 
+- [2021-12-11-5935.适合打劫银行的日子](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-11-5935/%E9%80%82%E5%90%88%E6%89%93%E5%8A%AB%E9%93%B6%E8%A1%8C%E7%9A%84%E6%97%A5%E5%AD%90.md)
+
