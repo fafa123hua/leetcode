@@ -93,3 +93,6 @@
 - [2021-12-13-807.保持城市天际线 ](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-13-807/%E4%BF%9D%E6%8C%81%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF.md)
 
 - [2021-12-14-630.课程表III](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-14-630/%E8%AF%BE%E7%A8%8B%E8%A1%A8%20III.md)
+
+- [2021-12-15-851.喧闹和富有](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-15-851/%E5%96%A7%E9%97%B9%E5%92%8C%E5%AF%8C%E6%9C%89.md)
+
