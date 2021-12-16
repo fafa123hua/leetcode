@@ -96,3 +96,5 @@
 
 - [2021-12-15-851.喧闹和富有](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-15-851/%E5%96%A7%E9%97%B9%E5%92%8C%E5%AF%8C%E6%9C%89.md)
 
+- [2021-12-16-36.有效数独](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-16-36/%E6%9C%89%E6%95%88%E6%95%B0%E7%8B%AC.md)
+
