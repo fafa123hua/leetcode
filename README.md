@@ -98,3 +98,5 @@
 
 - [2021-12-16-36.有效数独](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-16-36/%E6%9C%89%E6%95%88%E6%95%B0%E7%8B%AC.md)
 
+- [2021-12-17-1518.有效数独](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-17-1518/%E6%8D%A2%E9%85%92%E9%97%AE%E9%A2%98.md)
+
