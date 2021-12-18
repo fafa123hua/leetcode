@@ -100,3 +100,5 @@
 
 - [2021-12-17-1518.换酒问题](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-17-1518/%E6%8D%A2%E9%85%92%E9%97%AE%E9%A2%98.md)
 
+- [2021-12-18-419.甲板上的战舰](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-18-419/%E7%94%B2%E6%9D%BF%E4%B8%8A%E7%9A%84%E6%88%98%E8%88%B0.md)
+
