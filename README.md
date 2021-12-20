@@ -104,3 +104,5 @@
 
 - [2021-12-19-997.找到小镇的法官](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-19-997/%E6%89%BE%E5%88%B0%E5%B0%8F%E9%95%87%E7%9A%84%E6%B3%95%E5%AE%98.md)
 
+- [2021-12-20-475.供暖器](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-20-475/%E4%BE%9B%E6%9A%96%E6%B0%94.md)
+
