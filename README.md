@@ -106,3 +106,5 @@
 
 - [2021-12-20-475.供暖器](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-20-475/%E4%BE%9B%E6%9A%96%E6%B0%94.md)
 
+- [2021-12-20-1154.一年中的第几天](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-21-1154/%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%9A%84%E7%AC%AC%E5%87%A0%E5%A4%A9.md)
+
