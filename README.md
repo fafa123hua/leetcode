@@ -110,3 +110,5 @@
 
 - [2021-12-22-686.重复叠加字符串匹配](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-22-686/%E9%87%8D%E5%A4%8D%E5%8F%A0%E5%8A%A0%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
 
+- [2021-12-23-125.验证回文串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-23-125/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+
