@@ -116,3 +116,5 @@
 
 - [2021-12-25-1609.奇偶树](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-25-1609/%E5%A5%87%E5%81%B6%E6%A0%91.md)
 
+- [2021-12-26-1078.Bigram 分词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-26-1078/Bigram%20%E5%88%86%E8%AF%8D.md)
+
