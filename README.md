@@ -118,3 +118,5 @@
 
 - [2021-12-26-1078.Bigram 分词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-26-1078/Bigram%20%E5%88%86%E8%AF%8D.md)
 
+- [2021-12-27-825.适龄的朋友](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-27-825/%E9%80%82%E9%BE%84%E7%9A%84%E6%9C%8B%E5%8F%8B.md)
+
