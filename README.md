@@ -120,3 +120,5 @@
 
 - [2021-12-27-825.适龄的朋友](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-27-825/%E9%80%82%E9%BE%84%E7%9A%84%E6%9C%8B%E5%8F%8B.md)
 
+- [2021-12-28-21.合并两个有序链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-28-21/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+
