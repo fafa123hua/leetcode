@@ -122,3 +122,5 @@
 
 - [2021-12-28-21.合并两个有序链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-28-21/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 
+- [2021-12-29-1995.统计特殊四元组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-29-1995/%E7%BB%9F%E8%AE%A1%E7%89%B9%E6%AE%8A%E5%9B%9B%E5%85%83%E7%BB%84.md)
+
