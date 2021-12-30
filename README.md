@@ -124,3 +124,5 @@
 
 - [2021-12-29-1995.统计特殊四元组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-29-1995/%E7%BB%9F%E8%AE%A1%E7%89%B9%E6%AE%8A%E5%9B%9B%E5%85%83%E7%BB%84.md)
 
+- [2021-12-30-846.一手顺子](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-30-846/%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90.md)
+
