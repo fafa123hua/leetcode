@@ -126,3 +126,5 @@
 
 - [2021-12-30-846.一手顺子](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-30-846/%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90.md)
 
+- [2021-12-31-507.完美数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2021-12-31-507/%E5%AE%8C%E7%BE%8E%E6%95%B0.md)
+
