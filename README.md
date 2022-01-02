@@ -131,3 +131,6 @@
 ### 🚩2022 年 1 月
 
 - [2022-1-1-2022.将一维数组转变成二维数组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-1-2022/%E5%B0%86%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8F%98%E6%88%90%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.md)
+
+- [2022-1-2-390.消除游戏](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-2-390/%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F.md)
+
