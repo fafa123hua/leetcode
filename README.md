@@ -136,3 +136,5 @@
 
 - [2022-1-3-1185.一周中的第几天](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-3-1185/%E4%B8%80%E5%91%A8%E4%B8%AD%E7%9A%84%E7%AC%AC%E5%87%A0%E5%A4%A9.md)
 
+- [2022-1-4-234.回文链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-4-234/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
+
