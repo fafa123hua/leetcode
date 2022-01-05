@@ -138,3 +138,5 @@
 
 - [2022-1-4-234.回文链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-4-234/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
 
+- [2022-1-5-1576.替换所有的问号](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-5-1576/%E6%9B%BF%E6%8D%A2%E6%89%80%E6%9C%89%E7%9A%84%E9%97%AE%E5%8F%B7.md)
+
