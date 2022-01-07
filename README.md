@@ -142,3 +142,5 @@
 
 - [2022-1-6-71.替换所有的问号](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-6-71/%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.md)
 
+- [2022-1-7-1614.括号的最大嵌套深度](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-7-1614/%E6%8B%AC%E5%8F%B7%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B5%8C%E5%A5%97%E6%B7%B1%E5%BA%A6.md)
+
