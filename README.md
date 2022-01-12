@@ -131,24 +131,15 @@
 ### 🚩2022 年 1 月
 
 - [2022-1-1-2022.将一维数组转变成二维数组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-1-2022/%E5%B0%86%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8F%98%E6%88%90%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.md)
-
 - [2022-1-2-390.消除游戏](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-2-390/%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F.md)
-
 - [2022-1-3-1185.一周中的第几天](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-3-1185/%E4%B8%80%E5%91%A8%E4%B8%AD%E7%9A%84%E7%AC%AC%E5%87%A0%E5%A4%A9.md)
-
 - [2022-1-4-234.回文链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-4-234/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
-
 - [2022-1-5-1576.替换所有的问号](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-5-1576/%E6%9B%BF%E6%8D%A2%E6%89%80%E6%9C%89%E7%9A%84%E9%97%AE%E5%8F%B7.md)
-
 - [2022-1-6-71.替换所有的问号](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-6-71/%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.md)
-
 - [2022-1-7-1614.括号的最大嵌套深度](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-7-1614/%E6%8B%AC%E5%8F%B7%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B5%8C%E5%A5%97%E6%B7%B1%E5%BA%A6.md)
-
 - [2022-1-8-2011.执行操作后的变量值](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-8-2011/%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C%E5%90%8E%E7%9A%84%E5%8F%98%E9%87%8F%E5%80%BC.md)
-
 - [2022-1-9-1629.按键持续时间最长的键](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-9-1629/%E6%8C%89%E9%94%AE%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E6%9C%80%E9%95%BF%E7%9A%84%E9%94%AE.md)
-
 - [2022-1-10-2133.检查是否每一行每一列都包含全部整数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-10-2133/%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%AF%8F%E4%B8%80%E8%A1%8C%E6%AF%8F%E4%B8%80%E5%88%97%E9%83%BD%E5%8C%85%E5%90%AB%E5%85%A8%E9%83%A8%E6%95%B4%E6%95%B0.md)
-
 - [2022-1-11-2086.从房屋收集雨水需要的最少水桶数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-11-2086/%E4%BB%8E%E6%88%BF%E5%B1%8B%E6%94%B6%E9%9B%86%E9%9B%A8%E6%B0%B4%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%80%E5%B0%91%E6%B0%B4%E6%A1%B6%E6%95%B0.md)
+- [2022-1-12-334.递增的三元子序列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-12-334/%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
