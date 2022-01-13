@@ -143,3 +143,5 @@
 - [2022-1-11-2086.从房屋收集雨水需要的最少水桶数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-11-2086/%E4%BB%8E%E6%88%BF%E5%B1%8B%E6%94%B6%E9%9B%86%E9%9B%A8%E6%B0%B4%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%80%E5%B0%91%E6%B0%B4%E6%A1%B6%E6%95%B0.md)
 - [2022-1-12-334.递增的三元子序列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-12-334/%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
+- [2022-1-13-747.至少是其他数字两倍的最大数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-13-747/%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0.md)
+
