@@ -145,5 +145,7 @@
 - [2022-1-13-747.至少是其他数字两倍的最大数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-13-747/%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0.md)
 - [2022-1-14-141.环形链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-14-141/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 
+- [2022-1-15-1716.计算力扣银行的钱](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-15-1716/%E8%AE%A1%E7%AE%97%E5%8A%9B%E6%89%A3%E9%93%B6%E8%A1%8C%E7%9A%84%E9%92%B1.md)
+
 
 
