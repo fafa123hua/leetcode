@@ -147,5 +147,9 @@
 
 - [2022-1-15-1716.计算力扣银行的钱](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-15-1716/%E8%AE%A1%E7%AE%97%E5%8A%9B%E6%89%A3%E9%93%B6%E8%A1%8C%E7%9A%84%E9%92%B1.md)
 
+- [2022-1-16-382.链表随机节点](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-16-382/%E9%93%BE%E8%A1%A8%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9.md)
+
+
+
 
 
