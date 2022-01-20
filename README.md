@@ -144,16 +144,13 @@
 - [2022-1-12-334.递增的三元子序列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-12-334/%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97.md)
 - [2022-1-13-747.至少是其他数字两倍的最大数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-13-747/%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0.md)
 - [2022-1-14-141.环形链表](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-14-141/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
-
 - [2022-1-15-1716.计算力扣银行的钱](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-15-1716/%E8%AE%A1%E7%AE%97%E5%8A%9B%E6%89%A3%E9%93%B6%E8%A1%8C%E7%9A%84%E9%92%B1.md)
-
 - [2022-1-16-382.链表随机节点](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-16-382/%E9%93%BE%E8%A1%A8%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9.md)
-
 - [2022-1-17-3.无重复字符的最长子串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-17-3/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
-
 - [2022-1-18-539.最小时间差](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-18-539/%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4%E5%B7%AE.md)
-
 - [2022-1-19-219.存在重复元素II](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-19-219/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
+
+- [2022-1-20-2029.石子游戏IX](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-20-2029/%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8FIX.md)
 
 
 
