@@ -162,7 +162,7 @@
 
 - [2022-1-29-884.两句话中的不常见单词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-29-884/%E4%B8%A4%E5%8F%A5%E8%AF%9D%E4%B8%AD%E7%9A%84%E4%B8%8D%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D.md)
 
-- [2022-1-30]()
+- [2022-1-30-414.第三大的数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-1-30-414/%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.md)
 
 - [2022-1-31]()
 
