@@ -169,3 +169,6 @@
 ### 🚩2022 年 2 月
 
 - [2022-2-1-231.2的幂](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-1-231/2%E7%9A%84%E5%B9%82.md)
+
+- [2022-2-2-2000.反转单词前缀](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-2-2000/%E5%8F%8D%E8%BD%AC%E5%8D%95%E8%AF%8D%E5%89%8D%E7%BC%80.md)
+
