@@ -174,3 +174,5 @@
 
 - [2022-2-4-1725.可形成最大正方形的矩形数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-4-1725/%E5%8F%AF%E5%BD%A2%E6%88%90%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E7%9F%A9%E5%BD%A2%E6%95%B0%E7%9B%AE.md)
 
+- [2022-2-5-.](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-4-1725/%E5%8F%AF%E5%BD%A2%E6%88%90%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9A%84%E7%9F%A9%E5%BD%A2%E6%95%B0%E7%9B%AE.md)
+
