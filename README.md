@@ -178,3 +178,5 @@
 
 - [2022-2-6-1748.唯一元素的和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-6-1748/%E5%94%AF%E4%B8%80%E5%85%83%E7%B4%A0%E7%9A%84%E5%92%8C.md)
 
+- [2022-2-7-896.单调数列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-7-896/%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97.md)
+
