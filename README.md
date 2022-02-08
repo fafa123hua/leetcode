@@ -180,3 +180,5 @@
 
 - [2022-2-7-896.单调数列](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-7-896/%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97.md)
 
+- [2022-2-8-1051.高度检查器](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-8-1051/%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8.md)
+
