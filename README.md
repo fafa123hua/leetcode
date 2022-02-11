@@ -186,7 +186,7 @@
 
 - [2022-2-10-905. 按奇偶排序数组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-10-905/%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
-- [2022-2-11-. ]()
+- [2022-2-11-1984. 学生分数的最小差值](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-11-1984/%E5%AD%A6%E7%94%9F%E5%88%86%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC.md)
 
 - [2022-2-12-. ]()
 
