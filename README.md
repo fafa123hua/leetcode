@@ -196,7 +196,7 @@
 
 - [2022-2-15-1380.矩阵中的幸运数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-15-1380/%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E5%B9%B8%E8%BF%90%E6%95%B0.md)
 
-- [2022-2-16-. ]()
+- [2022-2-16-496.下一个更大元素I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-16-496/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0I.md)
 
 - [2022-2-17-. ]()
 
