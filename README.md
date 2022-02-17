@@ -198,7 +198,7 @@
 
 - [2022-2-16-496.下一个更大元素I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-16-496/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0I.md)
 
-- [2022-2-17-. ]()
+- [2022-2-17-1470.重新排列数组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-17-1470/%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84.md)
 
 - [2022-2-18-. ]()
 
