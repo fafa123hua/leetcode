@@ -206,7 +206,7 @@
 
 - [2022-2-20-717.1比特和2比特字符](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-20-717/1%E6%AF%94%E7%89%B9%E5%92%8C2%E6%AF%94%E7%89%B9%E5%AD%97%E7%AC%A6.md)
 
-- [2022-2-21-. ]()
+- [2022-2-21-1221.分割平衡字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-21-1221/%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 - [2022-2-22-. ]()
 
