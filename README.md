@@ -214,7 +214,7 @@
 
 - [2022-2-24-1822.数组元素积的符号](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-24-1822/%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%A7%AF%E7%9A%84%E7%AC%A6%E5%8F%B7.md)
 
-- []()
+- [2022-2-25-928.自除数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-25-728/%E8%87%AA%E9%99%A4%E6%95%B0.md)
 
 - []()
 
