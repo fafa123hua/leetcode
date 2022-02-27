@@ -218,7 +218,7 @@
 
 - [2022-2-26-2016.增量元素之间的最大差值](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-26-2016/%E5%A2%9E%E9%87%8F%E5%85%83%E7%B4%A0%E4%B9%8B%E9%97%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B7%AE%E5%80%BC.md)
 
-- []()
+- [2022-2-27-2124.检查是否所有 A 都在 B 之前](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-2-27-2124/%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%89%80%E6%9C%89%20A%20%E9%83%BD%E5%9C%A8%20B%20%E4%B9%8B%E5%89%8D.md)
 
 - []()
 
