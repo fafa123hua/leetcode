@@ -201,7 +201,7 @@
 
 - [2022-3-1-1672.最富有客户的资产总量](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-1-1672/%E6%9C%80%E5%AF%8C%E6%9C%89%E5%AE%A2%E6%88%B7%E7%9A%84%E8%B5%84%E4%BA%A7%E6%80%BB%E9%87%8F.md)
 - [2022-3-2-1539.第k个缺失的正整数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-2-1539/%E7%AC%ACk%E4%B8%AA%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%AD%A3%E6%95%B4%E6%95%B0.md)
-- []()
+- [2022-3-3-258.各位相加](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-3-258/%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.md)
 - []()
 - []()
 - []()
