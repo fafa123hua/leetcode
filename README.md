@@ -203,7 +203,7 @@
 - [2022-3-2-1539.第k个缺失的正整数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-2-1539/%E7%AC%ACk%E4%B8%AA%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%AD%A3%E6%95%B4%E6%95%B0.md)
 - [2022-3-3-258.各位相加](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-3-258/%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.md)
 - [2022-3-4-1869.哪种连续子字符串更长](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-4-1869/%E5%93%AA%E7%A7%8D%E8%BF%9E%E7%BB%AD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9B%B4%E9%95%BF.md)
-- []()
+- [2022-3-5-521.最长特殊序列Ⅰ](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-5-521/%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%E2%85%A0.md)
 - []()
 - []()
 - []()
