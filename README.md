@@ -205,6 +205,6 @@
 - [2022-3-4-1869.哪种连续子字符串更长](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-4-1869/%E5%93%AA%E7%A7%8D%E8%BF%9E%E7%BB%AD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9B%B4%E9%95%BF.md)
 - [2022-3-5-521.最长特殊序列Ⅰ](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-5-521/%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%E2%85%A0.md)
 - [2022-3-6-2078.两栋颜色不同且距离最远的房子](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-6-2078/%E4%B8%A4%E6%A0%8B%E9%A2%9C%E8%89%B2%E4%B8%8D%E5%90%8C%E4%B8%94%E8%B7%9D%E7%A6%BB%E6%9C%80%E8%BF%9C%E7%9A%84%E6%88%BF%E5%AD%90.md)
-- []()
+- [2022-3-7-504.七进制数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-7-504/%E4%B8%83%E8%BF%9B%E5%88%B6%E6%95%B0.md)
 - []()
 - []()
