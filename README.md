@@ -215,7 +215,7 @@
 
 - [2022-3-12-590.N叉树的后序遍历](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-12-590/N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 
-- []()
+- [2022-3-13-1880.检查某单词是否等于两单词之和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-13-1880/%E6%A3%80%E6%9F%A5%E6%9F%90%E5%8D%95%E8%AF%8D%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8E%E4%B8%A4%E5%8D%95%E8%AF%8D%E4%B9%8B%E5%92%8C.md)
 
 - []()
 
