@@ -217,7 +217,7 @@
 
 - [2022-3-13-1880.检查某单词是否等于两单词之和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-13-1880/%E6%A3%80%E6%9F%A5%E6%9F%90%E5%8D%95%E8%AF%8D%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8E%E4%B8%A4%E5%8D%95%E8%AF%8D%E4%B9%8B%E5%92%8C.md)
 
-- []()
+- [2022-3-14-599.两个列表的最小索引总和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-14-599/%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C.md)
 
 - []()
 
