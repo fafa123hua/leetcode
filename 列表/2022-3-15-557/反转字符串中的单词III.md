@@ -1,24 +1,17 @@
 ### 代码
 
 ```js
-var findRestaurant = function(list1, list2) {
-    let ans = [], min = Number.MAX_VALUE
-    let hash = new Map()
-    for(let i = 0; i < list1.length; i++){
-        hash.set(list1[i], i)
-    }
-    for(let i = 0; i < list2.length; i++){
-        if(hash.has(list2[i]) && i + hash.get(list2[i]) == min){
-            ans.push(list2[i])
-        }else if(i + hash.get(list2[i]) < min){
-            ans = []
-            min = i + hash.get(list2[i])
-            ans.push(list2[i])
-        }else{
-            continue
+var reverseWords = function(s) {
+    let str = s.split(' ')
+    let ans = []
+    for(let i = 0; i < str.length; i++){
+        let der = [], j = str[i].length
+        while(j--){
+            der.push(str[i][j])
         }
+        ans.push(der.join(''))
     }
-    return ans
+    return ans.join(' ')
 };
 ```
 
