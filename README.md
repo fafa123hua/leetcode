@@ -215,7 +215,7 @@
 - [2022-3-14-599.两个列表的最小索引总和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-14-599/%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C.md)
 - [2022-3-15-557.反转字符串中的单词III](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-15-557/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8DIII.md)
 - [2022-3-16-151.颠倒字符串中的单词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-16-151/%E9%A2%A0%E5%80%92%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.md)
-- []()
+- [2022-3-17-2160.拆分数位后四位数字的最小和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-17-2160/%E6%8B%86%E5%88%86%E6%95%B0%E4%BD%8D%E5%90%8E%E5%9B%9B%E4%BD%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%9C%80%E5%B0%8F%E5%92%8C.md)
 
 - []()
 
