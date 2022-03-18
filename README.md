@@ -217,7 +217,7 @@
 - [2022-3-16-151.颠倒字符串中的单词](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-16-151/%E9%A2%A0%E5%80%92%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.md)
 - [2022-3-17-2160.拆分数位后四位数字的最小和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-17-2160/%E6%8B%86%E5%88%86%E6%95%B0%E4%BD%8D%E5%90%8E%E5%9B%9B%E4%BD%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%9C%80%E5%B0%8F%E5%92%8C.md)
 
-- []()
+- [2022-3-18-771.宝石与石头](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-18-771/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.md)
 
 - []()
 
