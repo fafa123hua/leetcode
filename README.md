@@ -222,7 +222,7 @@
 - [2022-3-21-1512.好数对的数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-21-1512/%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md)
 - [2022-3-22-2185.统计包含给定前缀的字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-22-2185/%E7%BB%9F%E8%AE%A1%E5%8C%85%E5%90%AB%E7%BB%99%E5%AE%9A%E5%89%8D%E7%BC%80%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
-- []()
+- [2022-3-23-1689.十-二进制数的最少数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-23-1689/%E5%8D%81-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%91%E6%95%B0%E7%9B%AE.md)
 
 - []()
 
