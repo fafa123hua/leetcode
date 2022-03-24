@@ -224,7 +224,7 @@
 
 - [2022-3-23-1689.十-二进制数的最少数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-23-1689/%E5%8D%81-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%91%E6%95%B0%E7%9B%AE.md)
 
-- []()
+- [2022-3-24-1684.统计一致字符串的数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-24-1684/%E7%BB%9F%E8%AE%A1%E4%B8%80%E8%87%B4%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%95%B0%E7%9B%AE.md)
 
 - []()
 
