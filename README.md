@@ -226,7 +226,7 @@
 
 - [2022-3-24-1684.统计一致字符串的数目](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-24-1684/%E7%BB%9F%E8%AE%A1%E4%B8%80%E8%87%B4%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%95%B0%E7%9B%AE.md)
 
-- []()
+- [2022-3-25-172.阶乘后的零](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-25-172/%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.md)
 
 - []()
 
