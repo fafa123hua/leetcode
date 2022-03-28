@@ -232,7 +232,7 @@
 
 - [2022-3-27-2028.找出缺失的观测数据](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-27-2028/%E6%89%BE%E5%87%BA%E7%BC%BA%E5%A4%B1%E7%9A%84%E8%A7%82%E6%B5%8B%E6%95%B0%E6%8D%AE.md)
 
-- []()
+- [2022-3-28-693.交替位二进制数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-3-28-693/%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0.md)
 
 - []()
 
