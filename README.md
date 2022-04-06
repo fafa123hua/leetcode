@@ -250,7 +250,7 @@
 
 - [2022-4-5-1913.两个数对之间的最大乘积差](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-5-1913/%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AF%B9%E4%B9%8B%E9%97%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF%E5%B7%AE.md)
 
-- []()
+- [2022-4-6-1668.最大重复子字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-6-1668/%E6%9C%80%E5%A4%A7%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 - []()
 
