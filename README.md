@@ -252,7 +252,7 @@
 
 - [2022-4-6-1668.最大重复子字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-6-1668/%E6%9C%80%E5%A4%A7%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
-- []()
+- [2022-4-7-796.旋转字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-7-796/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 - []()
 
