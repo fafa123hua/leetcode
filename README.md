@@ -247,12 +247,20 @@
 - [2022-4-2-13.罗马数字转整数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-2-13/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
 - [2022-4-3-1837.矩阵对角线元素的和](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-3-1837/%E7%9F%A9%E9%98%B5%E5%AF%B9%E8%A7%92%E7%BA%BF%E5%85%83%E7%B4%A0%E7%9A%84%E5%92%8C.md)
 - [2022-4-4-1903.字符串中的最大奇数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-4-1903/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%A5%87%E6%95%B0.md)
-
 - [2022-4-5-1913.两个数对之间的最大乘积差](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-5-1913/%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AF%B9%E4%B9%8B%E9%97%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF%E5%B7%AE.md)
-
 - [2022-4-6-1668.最大重复子字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-6-1668/%E6%9C%80%E5%A4%A7%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
-
 - [2022-4-7-796.旋转字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-7-796/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [2022-4-8-1365.有多少小于当前数字的数字](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-8-1365/%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
