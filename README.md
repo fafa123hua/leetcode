@@ -252,7 +252,7 @@
 - [2022-4-7-796.旋转字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-7-796/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [2022-4-8-1365.有多少小于当前数字的数字](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-8-1365/%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
-- []()
+- [2022-4-9-2037.使每位学生都有座位的最少移动次数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-9-2037/%E4%BD%BF%E6%AF%8F%E4%BD%8D%E5%AD%A6%E7%94%9F%E9%83%BD%E6%9C%89%E5%BA%A7%E4%BD%8D%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%BB%E5%8A%A8%E6%AC%A1%E6%95%B0.md)
 
 - []()
 
