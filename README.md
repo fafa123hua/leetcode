@@ -258,7 +258,7 @@
 - [2022-4-13-561.数组拆分 I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-13-561/%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86%20I.md)
 - [2022-4-14-1389.按既定顺序创建目标数组](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-14-1389/%E6%8C%89%E6%97%A2%E5%AE%9A%E9%A1%BA%E5%BA%8F%E5%88%9B%E5%BB%BA%E7%9B%AE%E6%A0%87%E6%95%B0%E7%BB%84.md)
 
-- []()
+- [2022-4-15-169.多数元素](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-15-169/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 
 - []()
 
