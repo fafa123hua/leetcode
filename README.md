@@ -260,7 +260,7 @@
 
 - [2022-4-15-169.多数元素](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-15-169/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 
-- []()
+- [2022-4-16-1528.重新排列字符串](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-16-1528/%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 - []()
 
