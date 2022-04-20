@@ -262,7 +262,7 @@
 - [2022-4-17-1935.可以输入的最大单词数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-17-1935/%E5%8F%AF%E4%BB%A5%E8%BE%93%E5%85%A5%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8D%95%E8%AF%8D%E6%95%B0.md)
 - [2022-4-18-386.字典序排数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-18-386/%E5%AD%97%E5%85%B8%E5%BA%8F%E6%8E%92%E6%95%B0.md)
 - [2022-4-19-821.字符的最短距离](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-19-821/%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md)
-- []()
+- [2022-4-20-1859.将句子排序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-20-1859/%E5%B0%86%E5%8F%A5%E5%AD%90%E6%8E%92%E5%BA%8F.md)
 
 - []()
 - []()
