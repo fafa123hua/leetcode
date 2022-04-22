@@ -265,7 +265,7 @@
 - [2022-4-20-1859.将句子排序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-20-1859/%E5%B0%86%E5%8F%A5%E5%AD%90%E6%8E%92%E5%BA%8F.md)
 
 - [2022-4-21-824.山羊拉丁文](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-21-824/%E5%B1%B1%E7%BE%8A%E6%8B%89%E4%B8%81%E6%96%87.md)
-- []()
+- [2022-4-22-944.删列造序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-22-944/%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F.md)
 
 - []()
 - []()
