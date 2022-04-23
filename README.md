@@ -267,6 +267,6 @@
 - [2022-4-21-824.山羊拉丁文](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-21-824/%E5%B1%B1%E7%BE%8A%E6%8B%89%E4%B8%81%E6%96%87.md)
 - [2022-4-22-944.删列造序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-22-944/%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F.md)
 
-- []()
+- [2022-4-23-551.学生出勤记录I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-23-551/%E5%AD%A6%E7%94%9F%E5%87%BA%E5%8B%A4%E8%AE%B0%E5%BD%95I.md)
 - []()
 
