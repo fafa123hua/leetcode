@@ -263,10 +263,20 @@
 - [2022-4-18-386.字典序排数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-18-386/%E5%AD%97%E5%85%B8%E5%BA%8F%E6%8E%92%E6%95%B0.md)
 - [2022-4-19-821.字符的最短距离](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-19-821/%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md)
 - [2022-4-20-1859.将句子排序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-20-1859/%E5%B0%86%E5%8F%A5%E5%AD%90%E6%8E%92%E5%BA%8F.md)
-
 - [2022-4-21-824.山羊拉丁文](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-21-824/%E5%B1%B1%E7%BE%8A%E6%8B%89%E4%B8%81%E6%96%87.md)
 - [2022-4-22-944.删列造序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-22-944/%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F.md)
-
 - [2022-4-23-551.学生出勤记录I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-23-551/%E5%AD%A6%E7%94%9F%E5%87%BA%E5%8B%A4%E8%AE%B0%E5%BD%95I.md)
+- [2022-4-24-868.二进制间距](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-24-868/%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%97%B4%E8%B7%9D.md)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
 - []()
 
