@@ -268,7 +268,7 @@
 - [2022-4-23-551.学生出勤记录I](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-23-551/%E5%AD%A6%E7%94%9F%E5%87%BA%E5%8B%A4%E8%AE%B0%E5%BD%95I.md)
 - [2022-4-24-868.二进制间距](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-24-868/%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%97%B4%E8%B7%9D.md)
 
-- []()
+- [2022-4-25-2235.俩整数相加](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-25-2235/%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%97%B4%E8%B7%9D.md)
 
 - []()
 
