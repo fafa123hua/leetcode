@@ -276,7 +276,7 @@
 
 - [2022-4-28-1742.盒子中小球的最大数量](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-28-1742/%E7%9B%92%E5%AD%90%E4%B8%AD%E5%B0%8F%E7%90%83%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E9%87%8F.md)
 
-- []()
+- [2022-4-29-476.数字的补数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-4-29-476/%E6%95%B0%E5%AD%97%E7%9A%84%E8%A1%A5%E6%95%B0.md)
 
 - []()
 
