@@ -307,7 +307,7 @@
 
 - [2022-5-1-1304.和为零的N个唯一整数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-1-1304/%E5%92%8C%E4%B8%BA%E9%9B%B6%E7%9A%84N%E4%B8%AA%E5%94%AF%E4%B8%80%E6%95%B4%E6%95%B0.md)
 
-- []()
+- [2022-5-2-961.在长度为2N的数组中找出重复n次的元素](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-2-961/%E5%9C%A8%E9%95%BF%E5%BA%A6%202N%20%E7%9A%84%E6%95%B0%E7%BB%84%E4%B8%AD%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%20N%20%E6%AC%A1%E7%9A%84%E5%85%83%E7%B4%A0.md)
 
 - []()
 
