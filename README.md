@@ -311,7 +311,7 @@
 
 - [2022-5-3-485.最大连续1的个数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-3-485/%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD%201%20%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 
-- []()
+- [2022-5-4-263.丑数](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-4-263/%E4%B8%91%E6%95%B0.md)
 
 - []()
 
