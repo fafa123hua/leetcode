@@ -286,7 +286,7 @@
 
 - [2022-5-7-605.种花问题](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-7-605/%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
 
-- []()
+- [2022-5-8-442.数组中重复的数据](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-8-442/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md)
 
 - []()
 
