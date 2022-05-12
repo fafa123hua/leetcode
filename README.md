@@ -290,7 +290,7 @@
 
 - [2022-5-11-830.较大分组的位置](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-11-830/%E8%BE%83%E5%A4%A7%E5%88%86%E7%BB%84%E7%9A%84%E4%BD%8D%E7%BD%AE.md)
 
-- []()
+- [2022-5-12-944.删列造序](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-12-944/%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F.md)
 
 - []()
 
