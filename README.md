@@ -299,7 +299,8 @@
 - []()
 - [2022-5-22-1608.特殊数组的特征值](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-22-1608/%E7%89%B9%E6%AE%8A%E6%95%B0%E7%BB%84%E7%9A%84%E7%89%B9%E5%BE%81%E5%80%BC.md)
 - [2022-5-23-1422.分割字符串的最大得分](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-23-1422/%E5%88%86%E5%89%B2%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.md)
-
+- []()
+- [2022-5-25-965.单值二叉树](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-25-965/%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - []()
 
 - []()
