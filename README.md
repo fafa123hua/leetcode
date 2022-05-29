@@ -302,6 +302,14 @@
 - []()
 - [2022-5-25-965.单值二叉树](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-25-965/%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - []()
+- []()
+- []()
+
+- [2022-5-29-888/公平的糖果交换](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-29-888/%E5%85%AC%E5%B9%B3%E7%9A%84%E7%B3%96%E6%9E%9C%E4%BA%A4%E6%8D%A2.md)
+
+- []()
+
+- []()
 
 - []()
 
