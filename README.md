@@ -307,7 +307,7 @@
 
 - [2022-5-29-888/公平的糖果交换](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-29-888/%E5%85%AC%E5%B9%B3%E7%9A%84%E7%B3%96%E6%9E%9C%E4%BA%A4%E6%8D%A2.md)
 
-- []()
+- [2022-5-30-645/错误的集合](https://github.com/fafa123hua/leetcode/blob/master/%E5%88%97%E8%A1%A8/2022-5-30-645/%E9%94%99%E8%AF%AF%E7%9A%84%E9%9B%86%E5%90%88.md)
 
 - []()
 
